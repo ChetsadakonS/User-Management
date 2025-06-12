@@ -63,7 +63,7 @@ yarn install
 เข้าขึ้น branch develop และไฟล์ทั้งหมด
 git checkout -b develop
 git pull origin develop
-
+```
 
 ### 4. รันเซิร์ฟเวอร์
 
