@@ -41,7 +41,7 @@ src/
 ### 1. Clone โปรเจกต์
 
 ```bash
-git clone https://github.com/ChetsadakonS/user_management.git
+git clone https://github.com/ChetsadakonS/User-Management.git
 cd user_management
 ```
 
