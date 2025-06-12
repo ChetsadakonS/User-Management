@@ -45,15 +45,7 @@ git clone https://github.com/ChetsadakonS/User-Management.git
 cd user_management
 ```
 
-### 2. ติดตั้ง dependencies
-
-```bash
-npm install หรือ npm i
-# หรือ
-yarn install
-```
-
-### 3. ตั้งค่า `.env` (ต้องแตก branch 'develop')
+### 2. ตั้งค่า `.env` (ต้องแตก branch 'develop')
 
 เพื่อจัดการกับไฟล์ `.env`แนะนำให้แตก branch ก่อน ชื่อว่า `develop`
 
@@ -63,6 +55,14 @@ yarn install
 เข้าขึ้น branch develop และไฟล์ทั้งหมด
 git checkout -b develop
 git pull origin develop
+```
+
+### 3. ติดตั้ง dependencies
+
+```bash
+npm install หรือ npm i
+# หรือ
+yarn install
 ```
 
 ### 4. รันเซิร์ฟเวอร์
